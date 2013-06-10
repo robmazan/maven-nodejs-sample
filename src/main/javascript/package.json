@@ -1,0 +1,8 @@
+{
+	"jam": {
+		"dependencies": {
+			"jquery": null,
+			"bootstrap": null
+		}
+	}
+}
