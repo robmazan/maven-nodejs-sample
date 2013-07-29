@@ -199,7 +199,7 @@
 					<plugin>
 						<groupId>com.github.skwakman.nodejs-maven-plugin</groupId>
 						<artifactId>nodejs-maven-plugin</artifactId>
-						<version>1.0.2</version>
+						<version>1.0.3</version>
 						<executions>
 							<execution>
 								<id>Download Node JS</id>
